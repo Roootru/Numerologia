@@ -1,9 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
 	<ConfigVersions>
-		<Metadata name="Catalog.Клиенты" id="ef6c774a-45ba-42d8-9db8-8bcf4115d892" configVersion="7a1ff7c842115f42b8c4e57cf08be1fb00000000"/>
-		<Metadata name="Catalog.ШаблоныПредсказаний" id="2ad8aaa7-a3cb-4ea4-a352-21e15d9f53de" configVersion="9b672fe978039d448a02e8a1dc44e2ae00000000"/>
-		<Metadata name="Configuration.Нумерология" id="4c77fd76-52b1-4c43-bb72-9ebc7ca3db28" configVersion="72f5c7f8c71ab34ebdbb1d30344b48d300000000"/>
+		<Metadata name="Catalog.Контрагенты" id="ef6c774a-45ba-42d8-9db8-8bcf4115d892" configVersion="1bed716c7c1a9b45954ed361e67a67c600000000"/>
+		<Metadata name="Catalog.Предсказания" id="2ad8aaa7-a3cb-4ea4-a352-21e15d9f53de" configVersion="2f0041630bae1940825dbd232969276f00000000">
+			<Metadata name="Catalog.Предсказания.Attribute.ВидПредсказания" id="bf30a154-1759-490c-95ff-35d8c1da65f5"/>
+		</Metadata>
+		<Metadata name="Configuration.Нумерология" id="4c77fd76-52b1-4c43-bb72-9ebc7ca3db28" configVersion="9d8d95b4419c55429f31e0e0e2e425d500000000"/>
+		<Metadata name="Enum.ВидыПредсказаний" id="9e683d34-fc2c-4b42-b9da-6798a35c73fc" configVersion="25d3ef62b2ea7c4fb2783c96d7b1ef3c00000000">
+			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Здоровье" id="1fa5b5f3-a79c-45ad-add9-d9c31531f351"/>
+			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Женщины" id="5bd00532-bb2c-49a7-9113-d108a0a1e110"/>
+			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Хз" id="6188767f-ae58-42fd-b6f5-12ecbb6e3062"/>
+			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Деньги" id="d96bb172-8d5b-412f-b00f-d718246a07a0"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="4d2c74a8-3f3d-4dc3-b9df-a87ad4821469" configVersion="20f612bfedf7824094a58757d6bb03d900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

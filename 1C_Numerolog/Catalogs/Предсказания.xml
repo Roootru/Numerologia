@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
-	<Catalog uuid="ef6c774a-45ba-42d8-9db8-8bcf4115d892">
+	<Catalog uuid="2ad8aaa7-a3cb-4ea4-a352-21e15d9f53de">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Клиенты" category="Object">
-				<xr:TypeId>d28f0109-0146-45aa-8d64-152a15165bb0</xr:TypeId>
-				<xr:ValueId>731ada67-02b2-4d09-98c2-ee4594d8c3bb</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.Предсказания" category="Object">
+				<xr:TypeId>553caa64-79f3-4c17-9305-baaaff47b08d</xr:TypeId>
+				<xr:ValueId>819c2935-fadd-4e32-9b8a-3ad424017791</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Клиенты" category="Ref">
-				<xr:TypeId>90ca430a-4a56-4688-81f6-a530fd0b4553</xr:TypeId>
-				<xr:ValueId>9439e7ed-90a4-45df-a49d-100993ddd5cc</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.Предсказания" category="Ref">
+				<xr:TypeId>aeee8f39-01f2-4ec0-894f-dac13d264b66</xr:TypeId>
+				<xr:ValueId>352b177d-10e8-48ab-80ac-6757f2f3d69f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Клиенты" category="Selection">
-				<xr:TypeId>fad70a99-3225-4be8-af45-67a4857d9f9c</xr:TypeId>
-				<xr:ValueId>66452c3c-e5c2-4a6c-8857-d1146c834311</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.Предсказания" category="Selection">
+				<xr:TypeId>30e07bae-8664-4c82-ad7b-01a45209ae92</xr:TypeId>
+				<xr:ValueId>fcfb2f90-0c00-4ece-920c-5af02c287cb3</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Клиенты" category="List">
-				<xr:TypeId>db6f5b16-73f1-42e2-9d55-dfa9e46736a9</xr:TypeId>
-				<xr:ValueId>01a65d3b-2c50-413b-84f4-5bf75ec4111d</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.Предсказания" category="List">
+				<xr:TypeId>afb43441-bc08-4c52-a0c0-a078abb7b883</xr:TypeId>
+				<xr:ValueId>48c46ded-7b6c-42ee-933b-0e9935093464</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Клиенты" category="Manager">
-				<xr:TypeId>85d92238-7a3b-4317-b9bb-2db147671c78</xr:TypeId>
-				<xr:ValueId>cd5d3536-bf85-4e11-80e1-b92db1d6f1ec</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.Предсказания" category="Manager">
+				<xr:TypeId>d7908729-ebe0-4254-9227-1def1d53cbb4</xr:TypeId>
+				<xr:ValueId>4ef9258b-cb58-4521-a921-0fcec2530198</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Клиенты</Name>
+			<Name>Предсказания</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Клиенты</v8:content>
+					<v8:content>Предсказания</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -54,8 +54,8 @@
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Клиенты.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Клиенты.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.Предсказания.StandardAttribute.Description</xr:Field>
+				<xr:Field>Catalog.Предсказания.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
@@ -75,7 +75,12 @@
 			<DataLockFields/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<FullTextSearch>Use</FullTextSearch>
-			<ObjectPresentation/>
+			<ObjectPresentation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Шаблон предсказаний</v8:content>
+				</v8:item>
+			</ObjectPresentation>
 			<ExtendedObjectPresentation/>
 			<ListPresentation/>
 			<ExtendedListPresentation/>
@@ -86,6 +91,47 @@
 			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Attribute uuid="bf30a154-1759-490c-95ff-35d8c1da65f5">
+				<Properties>
+					<Name>ВидПредсказания</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вид предсказания</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:EnumRef.ВидыПредсказаний</v8:Type>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:nil="true"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+					<DataHistory>Use</DataHistory>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
 	</Catalog>
 </MetaDataObject>

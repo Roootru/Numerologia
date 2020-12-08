@@ -184,8 +184,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Catalog>Клиенты</Catalog>
-			<Catalog>ШаблоныПредсказаний</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>Предсказания</Catalog>
+			<Enum>ВидыПредсказаний</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
