@@ -1,1 +1,1 @@
-proverka.txt
+*.class
