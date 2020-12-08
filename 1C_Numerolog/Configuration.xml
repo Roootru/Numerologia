@@ -186,6 +186,7 @@
 			<Language>Русский</Language>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Предсказания</Catalog>
+			<Document>ПроизведенныеГадания</Document>
 			<Enum>ВидыПредсказаний</Enum>
 		</ChildObjects>
 	</Configuration>
