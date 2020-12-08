@@ -6,7 +6,8 @@
 			<Metadata name="Catalog.Предсказания.Attribute.ВидПредсказания" id="bf30a154-1759-490c-95ff-35d8c1da65f5"/>
 		</Metadata>
 		<Metadata name="Configuration.Нумерология" id="4c77fd76-52b1-4c43-bb72-9ebc7ca3db28" configVersion="814bb0c6ff2a5245a7dc32baf971e32700000000"/>
-		<Metadata name="Document.ПроизведенныеГадания" id="8a80d433-1aa0-4524-b682-c09afcd7c5ab" configVersion="08f9ede62545f543afe0937f15e3dd0900000000"/>
+		<Metadata name="Document.ПроизведенныеГадания" id="8a80d433-1aa0-4524-b682-c09afcd7c5ab" configVersion="3d04ccb5214c2a44a733e88e2e10a50700000000"/>
+		<Metadata name="Document.ПроизведенныеГадания.ObjectModule" id="8a80d433-1aa0-4524-b682-c09afcd7c5ab.0" configVersion="a5a8747d6863854798e8fc44bdb66c5700000000"/>
 		<Metadata name="Enum.ВидыПредсказаний" id="9e683d34-fc2c-4b42-b9da-6798a35c73fc" configVersion="25d3ef62b2ea7c4fb2783c96d7b1ef3c00000000">
 			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Здоровье" id="1fa5b5f3-a79c-45ad-add9-d9c31531f351"/>
 			<Metadata name="Enum.ВидыПредсказаний.EnumValue.Женщины" id="5bd00532-bb2c-49a7-9113-d108a0a1e110"/>
